@@ -1,7 +1,9 @@
 body{
     margin: 50px;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
+
 ul li{
    list-style: none;
 }
