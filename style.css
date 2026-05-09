@@ -11,6 +11,6 @@ ul li{
    display: flex;
    height: 100px;
    width: 500px;
-   box-shadow: 1px 8px 4px rgba(0, 0, 0.25);
+   box-shadow: 1px 5px 8px rgba(0, 0, 0.25);
 }
 
